@@ -1,33 +1,38 @@
-## Hi there 👋
-# Hi, I'm Shardul 👋
+# Hi, I'm Shardul 👋  
 
-🚀 Aspiring Software Engineer  
-💻 Building in Web Dev & AI  
+🚀 Building real-world projects in Web Development & AI  
+💡 Focused on DSA, scalable systems & problem solving  
 📍 Pune, India  
 
-## 🔥 Projects
-- Agentic AI Framework  
-- Cyber Guardian  
-- Full Stack Apps  
+---
+
+## 🔥 Featured Projects
+
+- 🔹 **Agentic AI Framework**  
+  → AI system that automates workflows without external frameworks  
+
+- 🔹 **Cyber Guardian**  
+  → Security-focused web project  
+
+- 🔹 **Full Stack Apps**  
+  → End-to-end apps using React & Node.js  
+
+---
 
 ## 🧠 Skills
-- Python, JavaScript  
-- React, Node.js  
-- DSA  
+
+- 💻 Languages: Python, JavaScript  
+- ⚙️ Tech: React, Node.js  
+- 🧩 Core: Data Structures & Algorithms  
+
+---
+
+## 📊 GitHub Stats
+
+![Shardul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shardul-2007&show_icons=true)
+
+---
 
 ## 📫 Connect
-- LinkedIn: https://linkedin.com/in/shardul-parihar
-<!--
-**shardul-2007/shardul-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 LinkedIn: https://linkedin.com/in/shardul-parihar
