@@ -1,5 +1,22 @@
 ## Hi there 👋
+# Hi, I'm Shardul 👋
 
+🚀 Aspiring Software Engineer  
+💻 Building in Web Dev & AI  
+📍 Pune, India  
+
+## 🔥 Projects
+- Agentic AI Framework  
+- Cyber Guardian  
+- Full Stack Apps  
+
+## 🧠 Skills
+- Python, JavaScript  
+- React, Node.js  
+- DSA  
+
+## 📫 Connect
+- LinkedIn: https://linkedin.com/in/shardul-parihar
 <!--
 **shardul-2007/shardul-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
