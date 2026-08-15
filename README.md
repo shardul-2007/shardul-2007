@@ -2,32 +2,14 @@
 
 🚀 **Software Engineering Student | Full Stack Developer | AI & Open Source Enthusiast**
 
-I enjoy building **real-world web applications, AI-powered solutions, and developer-focused projects** while continuously improving my problem-solving and software engineering skills.
+I'm passionate about building **real-world software, exploring modern technologies, and continuously improving my development and problem-solving skills.**
 
 💻 Interested in **Full Stack Development, Web Development, AI, Open Source & DSA**
-🤝 Open to **collaborations, hackathons, open-source projects and software engineering opportunities**
+🤝 Open to **collaborations, hackathons and open-source opportunities**
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Agentic AI Framework
-
-An AI-focused project exploring **agentic workflows and automation**.
-
-### 🛡️ Cyber Guardian
-
-A security-focused web project designed around **cybersecurity awareness and protection**.
-
-### 🌐 Full Stack Applications
-
-Building end-to-end applications using **React, Node.js, APIs and databases**.
-
-> Check out my repositories for more projects and experiments.
-
----
-
-## 🧠 Tech Stack
+## 🧠 Skills
 
 **Languages**
 
@@ -60,19 +42,21 @@ Building end-to-end applications using **React, Node.js, APIs and databases**.
 
 ## 🌱 Currently Learning
 
-* Advanced Full Stack Development
+* Full Stack Development
 * AI & Agentic AI
 * Data Structures & Algorithms
-* System Design
+* Backend Development
 * Open Source Development
 
 ---
 
-## 🏆 Open Source & Community
+## 🤝 Open to
 
-* 🚀 Exploring open-source contributions
-* 💻 Participating in hackathons and developer communities
-* 🤝 Building and collaborating on real-world projects
+* 🚀 Open Source Contributions
+* 💻 Hackathons
+* 🤝 Developer Collaborations
+* 🌱 Learning & Building New Projects
+* 💼 Software Engineering Opportunities
 
 ---
 
@@ -89,4 +73,5 @@ Building end-to-end applications using **React, Node.js, APIs and databases**.
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ **Currently learning, building, and preparing to ship meaningful projects.**
+
