@@ -57,13 +57,7 @@ I'm passionate about building **real-world software, exploring modern technologi
 * 🤝 Developer Collaborations
 * 🌱 Learning & Building New Projects
 * 💼 Software Engineering Opportunities
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shardul-2007&show_icons=true&hide_border=true)
-
+  
 ---
 
 ## 📫 Connect With Me
