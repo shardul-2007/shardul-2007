@@ -62,7 +62,7 @@ I'm passionate about building **real-world software, exploring modern technologi
 
 ## 📊 GitHub Stats
 
-![Shardul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shardul-2007\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shardul-2007&show_icons=true&hide_border=true)
 
 ---
 
