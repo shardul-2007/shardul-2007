@@ -82,7 +82,45 @@ I'm constantly experimenting, learning new technologies and trying to turn what 
 
 <div align="center">
 
-`02 / EXPERIENCE & LEADERSHIP`
+`02 / THE ARSENAL`
+
+# TECH STACK & TOOLS
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2300&pause=700&color=58A6FF&center=true&vCenter=true&width=680&lines=CODE.+CREATE.+ITERATE.;LEARNING+BY+BUILDING.;TURNING+IDEAS+INTO+SOFTWARE." />
+
+</div>
+
+### `>_ LANGUAGES`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### `>_ DEVELOPMENT & CORE SKILLS`
+
+![Frontend](https://img.shields.io/badge/Frontend-React%20%26%20Web-61DAFB?style=flat-square&logo=react&logoColor=111111)
+![Backend](https://img.shields.io/badge/Backend-APIs%20%26%20Server--Side-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![DSA](https://img.shields.io/badge/Computer%20Science-DSA%20%26%20Problem%20Solving-6C5CE7?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Generative%20AI%20%26%20Agents-8E75B2?style=flat-square)
+
+### `>_ TOOLS & WORKFLOW`
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+<sub>Technologies and learning areas I work with or actively explore.</sub>
+
+---
+
+<div align="center">
+
+`03 / EXPERIENCE & LEADERSHIP`
 
 # EXPERIENCE
 
@@ -135,7 +173,7 @@ I'm constantly experimenting, learning new technologies and trying to turn what 
 
 <div align="center">
 
-`03 / CERTIFICATIONS & LEARNING`
+`04 / CERTIFICATIONS & LEARNING`
 
 # CERTIFICATES & TECHNICAL ACHIEVEMENTS
 
@@ -202,7 +240,7 @@ I'm constantly experimenting, learning new technologies and trying to turn what 
 
 <div align="center">
 
-`04 / GOOGLE CLOUD & AI LEARNING`
+`05 / GOOGLE CLOUD & AI LEARNING`
 
 # GOOGLE CLOUD SKILLS & HANDS-ON EXPERIENCE
 
@@ -246,11 +284,9 @@ I'm constantly experimenting, learning new technologies and trying to turn what 
 
 <div align="center">
 
-`05 / GAMIFICATION MILESTONES`
+`06 / GAMIFICATION MILESTONES`
 
 <div align="center">
-
-`04 / GAMIFICATION MILESTONES`
 
 # 🏆 BADGES & ACHIEVEMENTS
 
@@ -308,6 +344,33 @@ A collection of milestones earned through quiz participation, registrations and 
 </div>
 
 ---
+
+<div align="center">
+
+`07 / GITHUB ANALYTICS`
+
+# THE BUILD LOG
+
+<img src="https://github-readme-stats.vercel.app/api?username=shardul-2007&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shardul-2007&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=shardul-2007&hide_border=true&theme=transparent" width="70%" alt="GitHub contribution streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=shardul-2007&theme=flat&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+`08 / SECURE UPLINK`
+
+### LET'S BUILD SOMETHING USEFUL.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shardul-2007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shardul-2007.github.io/my-portfolio/)
 
 <div align="center">
 
