@@ -82,7 +82,60 @@ I'm constantly experimenting, learning new technologies and trying to turn what 
 
 <div align="center">
 
-`02 / GAMIFICATION MILESTONES`
+`02 / EXPERIENCE & LEADERSHIP`
+
+# EXPERIENCE
+
+**Open Source · Developer Communities · Campus Leadership · Technology Outreach**
+
+</div>
+
+### 💻 Open Source & Developer Experience
+
+| Organization | Role | Duration |
+|---|---|---|
+| **Open Source Connect** | Open Source Contributor (OSCI) | Aug 2026 – Present |
+| **GirlScript Summer of Code** | Open Source Contributor · GSSOC'26 | May 2026 – Jun 2026 |
+| **Nexus Spring of Code** | Open Source Contributor · NSOC'26 | Apr 2026 – May 2026 |
+| **Open Source Connect** | Open Source Contributor · OSCG'26 | Apr 2026 – May 2026 |
+| **CodSoft** | C++ Programming Intern | Feb 2026 – Mar 2026 |
+
+**Open-source focus:** Contributing to community-driven projects, collaborating with developers, working with version control, and improving practical development skills.
+
+### 🚀 Campus Ambassador & Community Leadership
+
+| Organization | Role | Duration |
+|---|---|---|
+| **HackerRank** | HackerRank Campus Crew · PCET's NMIET | Jul 2026 – Present |
+| **Google** | Google Student Ambassador | Apr 2026 – Present |
+| **PhysicsWallah (PW)** | Campus Ambassador | Feb 2026 – Present |
+| **RemoteRecruit** | Campus Ambassador | Aug 2026 – Oct 2026 |
+| **Internshala** | Internshala Student Partner (ISP) | Feb 2026 – Jun 2026 |
+| **International MUN** | Campus Ambassador · International Representative, NMIET | Jan 2026 – Apr 2026 |
+| **HCL GUVI** | Campus Ambassador · AI Impact Summit | Oct 2025 – Mar 2026 |
+| **Cognizance, IIT Roorkee** | Campus Ambassador · Cognizance 2026 | Jan 2026 – Feb 2026 |
+| **GUESSS India** | Campus Ambassador · National Immersion Program (Top 30) | Dec 2025 – Jan 2026 |
+
+### 🌐 Civic Engagement
+
+| Organization | Role | Duration |
+|---|---|---|
+| **MyGov India** | Changemaker | Mar 2026 – Present |
+| **MyGov India** | Campus Ambassador | Dec 2025 – Apr 2026 |
+
+### What I Do
+
+- **Developer community building:** Encourage coding practice, peer learning, and participation in technical challenges.
+- **Campus outreach:** Represent technology platforms and initiatives, communicate opportunities, and connect students with communities.
+- **Event coordination:** Support workshops, campus activities, competitions, and technology-focused events.
+- **Open-source collaboration:** Learn through contributions, version control, code collaboration, and community feedback.
+- **Leadership & communication:** Build networks, engage student communities, and coordinate outreach initiatives.
+
+---
+
+<div align="center">
+
+`03 / GAMIFICATION MILESTONES`
 
 # 🏆 BADGES & ACHIEVEMENTS
 
