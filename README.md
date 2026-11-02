@@ -1,27 +1,21 @@
 <div align="center">
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=8B949E&center=true&vCenter=true&width=700&lines=initializing+shardul.dev...;loading+developer+identity...;loading+projects...;loading+ideas...;system+ready." />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=8B949E&center=true&vCenter=true&width=700&lines=initializing+shardul.dev...;building+software+that+matters...;exploring+AI+%26+the+web...;learning+in+public...;system+ready." />
 
 # SHARDUL PARIHAR
 
-### SOFTWARE · WEB · AI · OPEN SOURCE
+### SOFTWARE ENGINEERING STUDENT · FULL-STACK · AI · OPEN SOURCE
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=BUILDING+REAL+SOFTWARE;SOLVING+INTERESTING+PROBLEMS;EXPLORING+AI+%26+CLOUD;LEARNING+BY+SHIPPING" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=BUILDING+REAL+SOFTWARE;SOLVING+INTERESTING+PROBLEMS;EXPLORING+AI+%26+THE+WEB;LEARNING+IN+PUBLIC;SHIPPING+WHAT+I+BUILD" />
+Pune, India · Turning ideas into useful products
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shardul-2007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shardul-2007.github.io/my-portfolio/)
 
-`PUNE, INDIA` &nbsp; · &nbsp; `SOFTWARE ENGINEERING STUDENT` &nbsp; · &nbsp; `CURRENTLY BUILDING`
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/shardul-2007)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/shardul-parihar/)\n[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=googlechrome&logoColor=58A6FF)](https://shardul-2007.github.io/my-portfolio/)
+![Followers](https://img.shields.io/github/followers/shardul-2007?style=flat-square&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/shardul-2007?style=flat-square&logo=github&label=Profile%20Stars)
 
 </div>
 
@@ -29,334 +23,145 @@
 
 <div align="center">
 
-`01 / IDENTITY`
+`01 / ABOUT`
 
 </div>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## I BUILD THINGS.
 
-# I BUILD THINGS.
+I'm **Shardul Parihar**, a software engineering student interested in full-stack development, AI, cloud technologies, problem solving and open source.
 
-I'm **Shardul Parihar** — a software engineering student exploring the intersection of **web development, AI, problem solving and open source**.
+I enjoy the complete development cycle:
 
-I enjoy taking an idea from:
+`idea → design → build → test → improve → ship`
 
-`thought → prototype → code → failure → improvement → shipped software`
+I'm continuously learning by building practical projects, collaborating with developer communities and exploring emerging technologies.
 
-I'm constantly experimenting, learning new technologies and trying to turn what I learn into something useful.
+## `02 / TECH STACK`
 
-</td>
-
-<td width="40%" valign="top">
-
-```text
-╭────────────────────────────╮
-│                            │
-│  SHARDUL / STATUS          │
-│                            │
-│  role                      │
-│  └─ software student       │
-│                            │
-│  focus                     │
-│  └─ full stack + AI        │
-│                            │
-│  practice                  │
-│  └─ DSA + problem solving  │
-│                            │
-│  location                  │
-│  └─ Pune, India            │
-│                            │
-│  status                    │
-│  └─ ● BUILDING             │
-│                            │
-╰────────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-`02 / THE ARSENAL`
-
-# TECH STACK & TOOLS
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2300&pause=700&color=58A6FF&center=true&vCenter=true&width=680&lines=CODE.+CREATE.+ITERATE.;LEARNING+BY+BUILDING.;TURNING+IDEAS+INTO+SOFTWARE." />
-
-</div>
-
-### `>_ LANGUAGES`
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### `>_ DEVELOPMENT & CORE SKILLS`
+**Development & Platforms**
 
-![Frontend](https://img.shields.io/badge/Frontend-React%20%26%20Web-61DAFB?style=flat-square&logo=react&logoColor=111111)
-![Backend](https://img.shields.io/badge/Backend-APIs%20%26%20Server--Side-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![DSA](https://img.shields.io/badge/Computer%20Science-DSA%20%26%20Problem%20Solving-6C5CE7?style=flat-square)
-![AI](https://img.shields.io/badge/AI-Generative%20AI%20%26%20Agents-8E75B2?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### `>_ TOOLS & WORKFLOW`
+**AI, Cloud & Tools**
 
+![Generative AI](https://img.shields.io/badge/Generative_AI-8E75B2?style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<sub>Technologies and learning areas I work with or actively explore.</sub>
+<sub>Technologies represented here are based on my projects and current learning areas.</sub>
 
 ---
 
 <div align="center">
 
-`03 / EXPERIENCE & LEADERSHIP`
+`03 / SELECTED PROJECTS`
 
-# EXPERIENCE
-
-**Open Source · Developer Communities · Campus Leadership · Technology Outreach**
+# THINGS I'M BUILDING
 
 </div>
 
-### 💻 Open Source & Developer Experience
+| Project | What it does |
+|---|---|
+| **[SentinelMesh](https://github.com/shardul-2007/SentinelMesh)** | Enterprise agent governance with deterministic policy enforcement, cryptographic evidence and blockchain anchoring. [Live demo](https://sentinelmesh-five.vercel.app) |
+| **[DockFleet](https://github.com/shardul-2007/Dockfleet)** | Self-healing local container orchestrator for deploying, monitoring and recovering Docker services. |
+| **[Truxify](https://github.com/shardul-2007/Truxify)** | Broker-free freight marketplace concept combining mobile development, ML and blockchain. |
+| **[CivicOS](https://github.com/shardul-2007/civicos)** | AI-powered municipal platform focused on interoperability between fragmented civic services. [Live demo](https://civicos-beta.vercel.app) |
+| **[AdapTQ](https://github.com/shardul-2007/adaptq)** | C++17 vector-quantization engine exploring KV-cache memory reduction for LLM inference. |
+| **[MetroMate GPT](https://github.com/shardul-2007/MetroMate-GPT)** | Privacy-conscious urban mobility assistant for trip comparison and commute expense tracking. |
 
-| Organization | Role | Duration |
-|---|---|---|
-| **Open Source Connect** | Open Source Contributor (OSCI) | Aug 2026 – Present |
-| **GirlScript Summer of Code** | Open Source Contributor · GSSOC'26 | May 2026 – Jun 2026 |
-| **Nexus Spring of Code** | Open Source Contributor · NSOC'26 | Apr 2026 – May 2026 |
-| **Open Source Connect** | Open Source Contributor · OSCG'26 | Apr 2026 – May 2026 |
-| **CodSoft** | C++ Programming Intern | Feb 2026 – Mar 2026 |
-
-**Open-source focus:** Contributing to community-driven projects, collaborating with developers, working with version control, and improving practical development skills.
-
-### 🚀 Campus Ambassador & Community Leadership
-
-| Organization | Role | Duration |
-|---|---|---|
-| **HackerRank** | HackerRank Campus Crew · PCET's NMIET | Jul 2026 – Present |
-| **Google** | Google Student Ambassador | Apr 2026 – Present |
-| **PhysicsWallah (PW)** | Campus Ambassador | Feb 2026 – Present |
-| **RemoteRecruit** | Campus Ambassador | Aug 2026 – Oct 2026 |
-| **Internshala** | Internshala Student Partner (ISP) | Feb 2026 – Jun 2026 |
-| **International MUN** | Campus Ambassador · International Representative, NMIET | Jan 2026 – Apr 2026 |
-| **HCL GUVI** | Campus Ambassador · AI Impact Summit | Oct 2025 – Mar 2026 |
-| **Cognizance, IIT Roorkee** | Campus Ambassador · Cognizance 2026 | Jan 2026 – Feb 2026 |
-| **GUESSS India** | Campus Ambassador · National Immersion Program (Top 30) | Dec 2025 – Jan 2026 |
-
-### 🌐 Civic Engagement
-
-| Organization | Role | Duration |
-|---|---|---|
-| **MyGov India** | Changemaker | Mar 2026 – Present |
-| **MyGov India** | Campus Ambassador | Dec 2025 – Apr 2026 |
-
-### What I Do
-
-- **Developer community building:** Encourage coding practice, peer learning, and participation in technical challenges.
-- **Campus outreach:** Represent technology platforms and initiatives, communicate opportunities, and connect students with communities.
-- **Event coordination:** Support workshops, campus activities, competitions, and technology-focused events.
-- **Open-source collaboration:** Learn through contributions, version control, code collaboration, and community feedback.
-- **Leadership & communication:** Build networks, engage student communities, and coordinate outreach initiatives.
+[Explore all repositories →](https://github.com/shardul-2007?tab=repositories)
 
 ---
 
 <div align="center">
 
-`04 / CERTIFICATIONS & LEARNING`
+`04 / EXPERIENCE`
 
-# CERTIFICATES & TECHNICAL ACHIEVEMENTS
+# COMMUNITY & LEADERSHIP
 
 </div>
 
-### 🎖️ Featured Certificate Badges
+**Open Source & Developer Experience**
+- Open Source Connect — Open Source Contributor (OSCI), Aug 2026–Present
+- GirlScript Summer of Code — Contributor, GSSOC'26
+- Nexus Spring of Code — Contributor, NSOC'26
+- Open Source Connect — Contributor, OSCG'26
+- CodSoft — C++ Programming Intern
 
-*Selected highlights — full certification details remain listed below.*
+**Campus & Technology Communities**
+- Google — Google Student Ambassador
+- HackerRank — Campus Crew, PCET's NMIET
+- PhysicsWallah — Campus Ambassador
+- Internshala — Student Partner
+- HCL GUVI — Campus Ambassador, AI Impact Summit
+- International MUN — Campus Ambassador / International Representative
+- Cognizance, IIT Roorkee — Campus Ambassador
+- GUESSS India — Campus Ambassador, National Immersion Program (Top 30)
 
-[![Naukri Campus — Young Turks 2026 · Merit](https://img.shields.io/badge/Naukri%20Campus-Young%20Turks%202026%20%C2%B7%20Merit-ffc857?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
-[![Microsoft — Azure for SAP Workloads Specialty](https://img.shields.io/badge/Microsoft-Azure%20for%20SAP%20Workloads%20Specialty-0078D4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
-[![Forage — JPMorganChase · Software Engineering](https://img.shields.io/badge/Forage-JPMorganChase%20%C2%B7%20Software%20Engineering-6e5494?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
-[![Forage — Goldman Sachs · Risk Simulation](https://img.shields.io/badge/Forage-Goldman%20Sachs%20%C2%B7%20Risk%20Simulation-6e5494?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
-[![Google + ULSA — 5-Day AI Agents Intensive](https://img.shields.io/badge/Google%20%2B%20ULSA-5-Day%20AI%20Agents%20Intensive-4285F4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
-[![Microsoft — Generative AI · Foundry](https://img.shields.io/badge/Microsoft-Generative%20AI%20%C2%B7%20Foundry-0078D4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
-[![IBM SkillsBuild — Ethical Generative AI](https://img.shields.io/badge/IBM%20SkillsBuild-Ethical%20Generative%20AI-1F70C1?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
-[![HackerRank — CSS Basics](https://img.shields.io/badge/HackerRank-CSS%20Basics-2EC866?style=for-the-badge&logo=awards&logoColor=white)](https://www.hackerrank.com/certificates/f2d4a5065001)
-
-### 🏅 Featured Recognition
-
-| Achievement | Issuer | Issued |
-|---|---|---|
-| **Certificate of Merit — Naukri Campus Young Turks 2026** · Problem Solving | Naukri Campus | Oct 2026 |
-| **Microsoft Certified: Azure for SAP Workloads Specialty** | Microsoft | Feb 2026 |
-| **JPMorganChase — Software Engineering Job Simulation** | Forage | Mar 2026 |
-| **Goldman Sachs — Risk Job Simulation** · Decision-Making | Forage | Mar 2026 |
-| **5-Day AI Agents Intensive Course with Google** | United Latino Students Association | Dec 2025 |
-| **Develop with Apps Script and AppSheet — Skill Badge** | Google | Aug 2026 |
-
-### 💻 Hackathons, Coding & Developer Skills
-
-| Certificate / Achievement | Issuer | Issued |
-|---|---|---|
-| Environmental Hacks — Certificate of Participation | WeMakeDevs | Oct 2026 |
-| CodeClash 1.0 — Certificate of Participation | Unstop | Oct 2026 |
-| Navachar — Code Fest 2026 — Certificate of Participation | Unstop | Sep 2026 |
-| Adobe University Hackathon 2026 — Round 1 Online Assessment (MCQ + Coding) | Unstop | Aug 2026 |
-| HackDevengers 1.0 — Certificate of Participation | Unstop | Aug 2026 |
-| CodeZone | GDGoC NMIET, Pune | May 2026 |
-| CSS (Basics) — [HackerRank Certificate](https://www.hackerrank.com/certificates/f2d4a5065001) | HackerRank | May 2026 |
-| Full-Stack Development & GitHub — Anakin | Anakin | Oct 2026 |
-| Indian Knowledge System | Bharat Vidya | May 2026 |
-
-### 🤖 AI, Cloud, Productivity & Professional Learning
-
-| Course / Achievement | Issuer | Issued |
-|---|---|---|
-| Get Started with AI in Microsoft Foundry | Microsoft | Jan 2026 |
-| Get Started with Prompt Flow to Develop Language Model Apps in Microsoft Foundry | Microsoft | Jan 2026 |
-| Evaluate Generative AI Performance in Microsoft Foundry Portal | Microsoft | Jan 2026 |
-| Introduction to Cloud Infrastructure: Describe Cloud Concepts | Microsoft | Nov 2025 |
-| Become a Microsoft Learn Contributor | Microsoft | Nov 2025 |
-| Automate Development by Using GitHub Actions | Microsoft | Date not provided |
-| Ethical Considerations of Generative AI · Credential: `MDL-571` | IBM SkillsBuild | Sep 2025 |
-| IBM SkillsBuild — LLM & Retrieval-Augmented Generation (RAG) learning | IBM | Date not provided |
-| Top Prompt Creator | Google | Apr 2026 |
-| Notes to Sheet with Gemini · Credential: `23645161` | Google | Apr 2026 |
-| Advanced Analysis in Sheets · Credential: `23645203` | Google | Apr 2026 |
-| Increasing Multiplication Mastery with Microsoft PowerPoint · Credential: `IHZD72D6XFJX` | Coursera | Apr 2026 |
-
-<sub>Credential IDs supplied: Naukri Campus Young Turks — `6acf480096ebe313e740b5c7`; Environmental Hacks — `4MGWS-R2QPR`; CodeClash 1.0 — `78c847e2-6116-4992-9e65-b6e0fdf1d62b`; Navachar — `3bfa8265-f52b-4d3c-b5a7-0d11e99bb617`; Anakin — `8e0355b7-1850-4a81-a74d-d28c0cf04b0d`; Adobe University Hackathon — `79f13add-c550-48ee-ba99-be100a09d71c`; HackDevengers 1.0 — `502d5dbc-2393-499f-8133-dc1fe8aa6e8c`; Bharat Vidya — `BORI13404`; Goldman Sachs — `pzcKBoFPQMB4Yuke2`; JPMorganChase — `NMwAXBvYPKBTbRWex`.</sub>
+**Civic Engagement**
+- MyGov India — Changemaker
+- MyGov India — Campus Ambassador
 
 ---
 
 <div align="center">
 
-`05 / GOOGLE CLOUD & AI LEARNING`
+`05 / SELECTED RECOGNITION`
 
-# GOOGLE CLOUD SKILLS & HANDS-ON EXPERIENCE
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=700&color=4285F4&center=true&vCenter=true&width=700&lines=EXPLORING+GOOGLE+CLOUD;BUILDING+WITH+GEMINI+%26+AI+AGENTS;LEARNING+DATA+%26+CLOUD+WORKFLOWS;HANDS-ON+LABS+%7C+CONTINUOUS+LEARNING" />
+# CERTIFICATIONS & ACHIEVEMENTS
 
 </div>
 
-### ☁️ Google Cloud — Completed Highlights
+[![Naukri Campus Young Turks 2026 — Merit](https://img.shields.io/badge/Naukri_Campus-Young_Turks_2026_Merit-ffc857?style=for-the-badge)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure_for_SAP_Workloads_Specialty-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Google AI Agents](https://img.shields.io/badge/Google-5--Day_AI_Agents_Intensive-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![JPMorganChase](https://img.shields.io/badge/Forage-JPMorganChase_Software_Engineering-6e5494?style=for-the-badge)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Goldman Sachs](https://img.shields.io/badge/Forage-Goldman_Sachs_Risk_Simulation-6e5494?style=for-the-badge)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![HackerRank CSS](https://img.shields.io/badge/HackerRank-CSS_Basics-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/f2d4a5065001)
 
-*Selected completed activities from the Google Cloud learning history shared above. Repeated attempts, failed runs, and unfinished learning paths are intentionally excluded.*
+- Certificate of Merit — Naukri Campus Young Turks 2026 (Problem Solving)
+- Microsoft Certified: Azure for SAP Workloads Specialty
+- Google 5-Day AI Agents Intensive Course
+- Develop with Apps Script and AppSheet — Google Skill Badge
+- JPMorganChase Software Engineering Job Simulation — Forage
+- Goldman Sachs Risk Job Simulation — Forage
+- Hackathon participation: Environmental Hacks, CodeClash 1.0, Navachar Code Fest 2026, Adobe University Hackathon 2026 and HackDevengers 1.0
 
-| Area | Completed course / lab / achievement | Date |
-|---|---|---|
-| **Generative AI** | Generative AI Leader Certification learning path | Apr–May 2026 |
-| **Generative AI** | Gen AI: Unlock Foundational Concepts | Apr 2026 |
-| **Generative AI** | Gen AI: Navigate the Landscape | Apr–May 2026 |
-| **Generative AI** | Gen AI Apps: Transform Your Work | May 2026 |
-| **AI Agents** | Gen AI: Beyond the Chatbot | Apr 2026 |
-| **AI Agents** | Gen AI Agents: Transform Your Organization | Apr 2026 |
-| **AI Agents** | Human-Centered AI | Apr 2026 |
-| **AI Agents** | Orchestrate Multi-agent Workflows with Gemini Enterprise | Apr 2026 |
-| **AI Agents** | Wrap Up: Introduction to Agents and Google’s Agent Ecosystem | Aug 2026 |
-| **Gemini** | Create Your First Gemini Enterprise Application | Aug 2026 |
-| **App Development** | Develop No-Code Chat Apps with AppSheet — completed lab | Aug 2026 |
-| **App Development** | Develop with Apps Script and AppSheet — Challenge Lab (80%) | Aug 2026 |
-| **Automation** | Google Apps Script: Access Google Sheets, Maps & Gmail in 4 Lines of Code | Aug 2026 |
-| **Automation** | Introduction to Google Chat Bots with Apps Script | Aug 2026 |
-| **Cloud & DevOps** | Artifact Registry: Qwik Start — completed lab | Aug 2026 |
-| **Cloud Fundamentals** | A Tour of Google Cloud Hands-on Labs — completed lab | Jul 2026 |
+**Google Cloud learning:** Generative AI, Gemini Enterprise, AI agent workflows, AppSheet, Apps Script, Artifact Registry and Google Cloud hands-on labs.
 
-### 📊 Verified Learning Signals
-
-- **Generative AI & Gemini:** Completed foundational and applied GenAI learning, plus Gemini Enterprise activities.
-- **AI agent workflows:** Completed learning on multi-agent orchestration, enterprise agents, and human-centered AI.
-- **Google Cloud hands-on:** Completed practical labs involving Artifact Registry, Apps Script, AppSheet, and Google Chat bots.
-- **Assessment performance:** Multiple completed quizzes and assessments, including scores of 88%, 92%, and 100% in the supplied activity history.
-
-<sub>Note: This is a curated selection from the activity records provided, not a claim that every item in the full 228-activity history is complete or certified. Learning activities and labs are not represented as professional certifications.</sub>
+[View certifications and credentials on LinkedIn →](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
 
 ---
 
 <div align="center">
 
-`06 / GAMIFICATION MILESTONES`
-
-<div align="center">
-
-# 🏆 BADGES & ACHIEVEMENTS
-
-A collection of milestones earned through quiz participation, registrations and consistent engagement.
-
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/quiz_participation/1.png?d=140x140">
-<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/quiz_participation/1.png?d=140x140" width="110" alt="Getting Started badge" />
-</a>
-<br><strong>Getting Started</strong>
-<br><sub>Participated in your first quiz.</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/4.png?d=140x140">
-<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/4.png?d=140x140" width="110" alt="Nifty Fifty badge" />
-</a>
-<br><strong>Nifty Fifty</strong>
-<br><sub>Reached 50 registrations.</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/3.png?d=140x140">
-<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/3.png?d=140x140" width="110" alt="Twenty Bounty badge" />
-</a>
-<br><strong>Twenty Bounty</strong>
-<br><sub>Reached 20 registrations.</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<a href="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/2.png?d=140x140">
-<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/2.png?d=140x140" width="110" alt="Zen with ten badge" />
-</a>
-<br><strong>Zen with Ten</strong>
-<br><sub>Reached 10 registrations.</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/1.png?d=140x140">
-<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/1.png?d=140x140" width="110" alt="One and done badge" />
-</a>
-<br><strong>One and Done</strong>
-<br><sub>Completed your first registration.</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/login_streak/1.png?d=140x140">
-<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/login_streak/1.png?d=140x140" width="110" alt="Newbie badge" />
-</a>
-<br><strong>Newbie</strong>
-<br><sub>Completed a 2-day login streak.</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-`07 / GITHUB ANALYTICS`
+`06 / GITHUB ACTIVITY`
 
 # THE BUILD LOG
 
-<img src="https://github-readme-stats.vercel.app/api?username=shardul-2007&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shardul-2007&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Most used languages" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=shardul-2007&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://streak-stats.demolab.com?user=shardul-2007&hide_border=true&theme=transparent" width="70%" alt="GitHub contribution streak" />
+[![Contribution Graph](https://ghchart.rshah.org/58A6FF/shardul-2007)](https://github.com/shardul-2007)
 
-<img src="https://github-profile-trophy.vercel.app/?username=shardul-2007&theme=flat&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub trophies" />
+[![GitHub Profile](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shardul-2007?tab=repositories)
 
 </div>
 
@@ -364,7 +169,7 @@ A collection of milestones earned through quiz participation, registrations and 
 
 <div align="center">
 
-`08 / SECURE UPLINK`
+`07 / CONNECT`
 
 ### LET'S BUILD SOMETHING USEFUL.
 
@@ -372,8 +177,6 @@ A collection of milestones earned through quiz participation, registrations and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shardul-2007.github.io/my-portfolio/)
 
-<div align="center">
-
-**MORE MILESTONES. MORE LEARNING. MORE BUILDING.**
+**BUILD · LEARN · CONTRIBUTE · REPEAT**
 
 </div>
