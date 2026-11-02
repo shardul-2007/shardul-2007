@@ -21,7 +21,7 @@
 <br><br>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/shardul-2007)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/shardul-parihar/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/shardul-parihar/)\n[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=googlechrome&logoColor=58A6FF)](https://shardul-2007.github.io/my-portfolio/)
 
 </div>
 
@@ -199,6 +199,54 @@ I'm constantly experimenting, learning new technologies and trying to turn what 
 <sub>Credential IDs supplied: Naukri Campus Young Turks — `6acf480096ebe313e740b5c7`; Environmental Hacks — `4MGWS-R2QPR`; CodeClash 1.0 — `78c847e2-6116-4992-9e65-b6e0fdf1d62b`; Navachar — `3bfa8265-f52b-4d3c-b5a7-0d11e99bb617`; Anakin — `8e0355b7-1850-4a81-a74d-d28c0cf04b0d`; Adobe University Hackathon — `79f13add-c550-48ee-ba99-be100a09d71c`; HackDevengers 1.0 — `502d5dbc-2393-499f-8133-dc1fe8aa6e8c`; Bharat Vidya — `BORI13404`; Goldman Sachs — `pzcKBoFPQMB4Yuke2`; JPMorganChase — `NMwAXBvYPKBTbRWex`.</sub>
 
 ---
+
+<div align="center">
+
+`04 / GOOGLE CLOUD & AI LEARNING`
+
+# GOOGLE CLOUD SKILLS & HANDS-ON EXPERIENCE
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=700&color=4285F4&center=true&vCenter=true&width=700&lines=EXPLORING+GOOGLE+CLOUD;BUILDING+WITH+GEMINI+%26+AI+AGENTS;LEARNING+DATA+%26+CLOUD+WORKFLOWS;HANDS-ON+LABS+%7C+CONTINUOUS+LEARNING" />
+
+</div>
+
+### ☁️ Google Cloud — Completed Highlights
+
+*Selected completed activities from the Google Cloud learning history shared above. Repeated attempts, failed runs, and unfinished learning paths are intentionally excluded.*
+
+| Area | Completed course / lab / achievement | Date |
+|---|---|---|
+| **Generative AI** | Generative AI Leader Certification learning path | Apr–May 2026 |
+| **Generative AI** | Gen AI: Unlock Foundational Concepts | Apr 2026 |
+| **Generative AI** | Gen AI: Navigate the Landscape | Apr–May 2026 |
+| **Generative AI** | Gen AI Apps: Transform Your Work | May 2026 |
+| **AI Agents** | Gen AI: Beyond the Chatbot | Apr 2026 |
+| **AI Agents** | Gen AI Agents: Transform Your Organization | Apr 2026 |
+| **AI Agents** | Human-Centered AI | Apr 2026 |
+| **AI Agents** | Orchestrate Multi-agent Workflows with Gemini Enterprise | Apr 2026 |
+| **AI Agents** | Wrap Up: Introduction to Agents and Google’s Agent Ecosystem | Aug 2026 |
+| **Gemini** | Create Your First Gemini Enterprise Application | Aug 2026 |
+| **App Development** | Develop No-Code Chat Apps with AppSheet — completed lab | Aug 2026 |
+| **App Development** | Develop with Apps Script and AppSheet — Challenge Lab (80%) | Aug 2026 |
+| **Automation** | Google Apps Script: Access Google Sheets, Maps & Gmail in 4 Lines of Code | Aug 2026 |
+| **Automation** | Introduction to Google Chat Bots with Apps Script | Aug 2026 |
+| **Cloud & DevOps** | Artifact Registry: Qwik Start — completed lab | Aug 2026 |
+| **Cloud Fundamentals** | A Tour of Google Cloud Hands-on Labs — completed lab | Jul 2026 |
+
+### 📊 Verified Learning Signals
+
+- **Generative AI & Gemini:** Completed foundational and applied GenAI learning, plus Gemini Enterprise activities.
+- **AI agent workflows:** Completed learning on multi-agent orchestration, enterprise agents, and human-centered AI.
+- **Google Cloud hands-on:** Completed practical labs involving Artifact Registry, Apps Script, AppSheet, and Google Chat bots.
+- **Assessment performance:** Multiple completed quizzes and assessments, including scores of 88%, 92%, and 100% in the supplied activity history.
+
+<sub>Note: This is a curated selection from the activity records provided, not a claim that every item in the full 228-activity history is complete or certified. Learning activities and labs are not represented as professional certifications.</sub>
+
+---
+
+<div align="center">
+
+`05 / GAMIFICATION MILESTONES`
 
 <div align="center">
 
