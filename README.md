@@ -135,7 +135,61 @@ I'm constantly experimenting, learning new technologies and trying to turn what 
 
 <div align="center">
 
-`03 / GAMIFICATION MILESTONES`
+`03 / CERTIFICATIONS & LEARNING`
+
+# CERTIFICATES & TECHNICAL ACHIEVEMENTS
+
+</div>
+
+### 🏅 Featured Recognition
+
+| Achievement | Issuer | Issued |
+|---|---|---|
+| **Certificate of Merit — Naukri Campus Young Turks 2026** · Problem Solving | Naukri Campus | Oct 2026 |
+| **Microsoft Certified: Azure for SAP Workloads Specialty** | Microsoft | Feb 2026 |
+| **JPMorganChase — Software Engineering Job Simulation** | Forage | Mar 2026 |
+| **Goldman Sachs — Risk Job Simulation** · Decision-Making | Forage | Mar 2026 |
+| **5-Day AI Agents Intensive Course with Google** | United Latino Students Association | Dec 2025 |
+| **Develop with Apps Script and AppSheet — Skill Badge** | Google | Aug 2026 |
+
+### 💻 Hackathons, Coding & Developer Skills
+
+| Certificate / Achievement | Issuer | Issued |
+|---|---|---|
+| Environmental Hacks — Certificate of Participation | WeMakeDevs | Oct 2026 |
+| CodeClash 1.0 — Certificate of Participation | Unstop | Oct 2026 |
+| Navachar — Code Fest 2026 — Certificate of Participation | Unstop | Sep 2026 |
+| Adobe University Hackathon 2026 — Round 1 Online Assessment (MCQ + Coding) | Unstop | Aug 2026 |
+| HackDevengers 1.0 — Certificate of Participation | Unstop | Aug 2026 |
+| CodeZone | GDGoC NMIET, Pune | May 2026 |
+| CSS (Basics) — [HackerRank Certificate](https://www.hackerrank.com/certificates/f2d4a5065001) | HackerRank | May 2026 |
+| Full-Stack Development & GitHub — Anakin | Anakin | Oct 2026 |
+| Indian Knowledge System | Bharat Vidya | May 2026 |
+
+### 🤖 AI, Cloud, Productivity & Professional Learning
+
+| Course / Achievement | Issuer | Issued |
+|---|---|---|
+| Get Started with AI in Microsoft Foundry | Microsoft | Jan 2026 |
+| Get Started with Prompt Flow to Develop Language Model Apps in Microsoft Foundry | Microsoft | Jan 2026 |
+| Evaluate Generative AI Performance in Microsoft Foundry Portal | Microsoft | Jan 2026 |
+| Introduction to Cloud Infrastructure: Describe Cloud Concepts | Microsoft | Nov 2025 |
+| Become a Microsoft Learn Contributor | Microsoft | Nov 2025 |
+| Automate Development by Using GitHub Actions | Microsoft | Date not provided |
+| Ethical Considerations of Generative AI · Credential: `MDL-571` | IBM SkillsBuild | Sep 2025 |
+| IBM SkillsBuild — LLM & Retrieval-Augmented Generation (RAG) learning | IBM | Date not provided |
+| Top Prompt Creator | Google | Apr 2026 |
+| Notes to Sheet with Gemini · Credential: `23645161` | Google | Apr 2026 |
+| Advanced Analysis in Sheets · Credential: `23645203` | Google | Apr 2026 |
+| Increasing Multiplication Mastery with Microsoft PowerPoint · Credential: `IHZD72D6XFJX` | Coursera | Apr 2026 |
+
+<sub>Credential IDs supplied: Naukri Campus Young Turks — `6acf480096ebe313e740b5c7`; Environmental Hacks — `4MGWS-R2QPR`; CodeClash 1.0 — `78c847e2-6116-4992-9e65-b6e0fdf1d62b`; Navachar — `3bfa8265-f52b-4d3c-b5a7-0d11e99bb617`; Anakin — `8e0355b7-1850-4a81-a74d-d28c0cf04b0d`; Adobe University Hackathon — `79f13add-c550-48ee-ba99-be100a09d71c`; HackDevengers 1.0 — `502d5dbc-2393-499f-8133-dc1fe8aa6e8c`; Bharat Vidya — `BORI13404`; Goldman Sachs — `pzcKBoFPQMB4Yuke2`; JPMorganChase — `NMwAXBvYPKBTbRWex`.</sub>
+
+---
+
+<div align="center">
+
+`04 / GAMIFICATION MILESTONES`
 
 # 🏆 BADGES & ACHIEVEMENTS
 
