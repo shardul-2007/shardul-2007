@@ -72,3 +72,77 @@ I'm constantly experimenting, learning new technologies and trying to turn what 
 │  └─ ● BUILDING             │
 │                            │
 ╰────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+`02 / GAMIFICATION MILESTONES`
+
+# 🏆 BADGES & ACHIEVEMENTS
+
+A collection of milestones earned through quiz participation, registrations and consistent engagement.
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/quiz_participation/1.png?d=140x140">
+<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/quiz_participation/1.png?d=140x140" width="110" alt="Getting Started badge" />
+</a>
+<br><strong>Getting Started</strong>
+<br><sub>Participated in your first quiz.</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/4.png?d=140x140">
+<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/4.png?d=140x140" width="110" alt="Nifty Fifty badge" />
+</a>
+<br><strong>Nifty Fifty</strong>
+<br><sub>Reached 50 registrations.</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/3.png?d=140x140">
+<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/3.png?d=140x140" width="110" alt="Twenty Bounty badge" />
+</a>
+<br><strong>Twenty Bounty</strong>
+<br><sub>Reached 20 registrations.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/2.png?d=140x140">
+<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/2.png?d=140x140" width="110" alt="Zen with ten badge" />
+</a>
+<br><strong>Zen with Ten</strong>
+<br><sub>Reached 10 registrations.</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/1.png?d=140x140">
+<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/reg_counts/1.png?d=140x140" width="110" alt="One and done badge" />
+</a>
+<br><strong>One and Done</strong>
+<br><sub>Completed your first registration.</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/login_streak/1.png?d=140x140">
+<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/gamify_badges/login_streak/1.png?d=140x140" width="110" alt="Newbie badge" />
+</a>
+<br><strong>Newbie</strong>
+<br><sub>Completed a 2-day login streak.</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+**MORE MILESTONES. MORE LEARNING. MORE BUILDING.**
+
+</div>
