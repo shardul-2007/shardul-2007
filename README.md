@@ -141,6 +141,38 @@ I'm constantly experimenting, learning new technologies and trying to turn what 
 
 </div>
 
+### 🎖️ Visual Certificate & Skill Badge Wall
+
+*Visual badge cards for every certificate, course, hackathon and skill achievement listed below. Click a badge to open the relevant credential destination; most issuer records are collected on LinkedIn.*
+
+[![Naukri Campus — Young Turks 2026 · Merit](https://img.shields.io/badge/Naukri%20Campus-Young%20Turks%202026%20%C2%B7%20Merit-ffc857?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Microsoft — Azure for SAP Workloads Specialty](https://img.shields.io/badge/Microsoft-Azure%20for%20SAP%20Workloads%20Specialty-0078D4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Forage — JPMorganChase · Software Engineering](https://img.shields.io/badge/Forage-JPMorganChase%20%C2%B7%20Software%20Engineering-6e5494?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Forage — Goldman Sachs · Risk Simulation](https://img.shields.io/badge/Forage-Goldman%20Sachs%20%C2%B7%20Risk%20Simulation-6e5494?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![ULSA + Google — 5-Day AI Agents Intensive](https://img.shields.io/badge/ULSA%20%2B%20Google-5-Day%20AI%20Agents%20Intensive-4285F4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Google — Apps Script + AppSheet Skill Badge](https://img.shields.io/badge/Google-Apps%20Script%20%2B%20AppSheet%20Skill%20Badge-4285F4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![WeMakeDevs — Environmental Hacks](https://img.shields.io/badge/WeMakeDevs-Environmental%20Hacks-2DA44E?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Unstop — CodeClash 1.0](https://img.shields.io/badge/Unstop-CodeClash%201.0-2DA44E?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Unstop — Navachar Code Fest 2026](https://img.shields.io/badge/Unstop-Navachar%20Code%20Fest%202026-2DA44E?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Unstop — Adobe University Hackathon 2026](https://img.shields.io/badge/Unstop-Adobe%20University%20Hackathon%202026-2DA44E?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Unstop — HackDevengers 1.0](https://img.shields.io/badge/Unstop-HackDevengers%201.0-2DA44E?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![GDGoC NMIET — CodeZone](https://img.shields.io/badge/GDGoC%20NMIET-CodeZone-4285F4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![HackerRank — CSS Basics](https://img.shields.io/badge/HackerRank-CSS%20Basics-2EC866?style=for-the-badge&logo=awards&logoColor=white)](https://www.hackerrank.com/certificates/f2d4a5065001)
+[![Anakin — Full Stack Development + GitHub](https://img.shields.io/badge/Anakin-Full%20Stack%20Development%20%2B%20GitHub-111111?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Bharat Vidya — Indian Knowledge System](https://img.shields.io/badge/Bharat%20Vidya-Indian%20Knowledge%20System-D97706?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Microsoft — AI in Microsoft Foundry](https://img.shields.io/badge/Microsoft-AI%20in%20Microsoft%20Foundry-0078D4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Microsoft — Prompt Flow · Language Model Apps](https://img.shields.io/badge/Microsoft-Prompt%20Flow%20%C2%B7%20Language%20Model%20Apps-0078D4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Microsoft — Evaluate Generative AI](https://img.shields.io/badge/Microsoft-Evaluate%20Generative%20AI-0078D4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Microsoft — Cloud Infrastructure Concepts](https://img.shields.io/badge/Microsoft-Cloud%20Infrastructure%20Concepts-0078D4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Microsoft — Microsoft Learn Contributor](https://img.shields.io/badge/Microsoft-Microsoft%20Learn%20Contributor-0078D4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Microsoft — GitHub Actions Automation](https://img.shields.io/badge/Microsoft-GitHub%20Actions%20Automation-0078D4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![IBM SkillsBuild — Ethical Generative AI · MDL-571](https://img.shields.io/badge/IBM%20SkillsBuild-Ethical%20Generative%20AI%20%C2%B7%20MDL-571-1F70C1?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![IBM — LLMs + Retrieval Augmented Generation](https://img.shields.io/badge/IBM-LLMs%20%2B%20Retrieval%20Augmented%20Generation-1F70C1?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Google — Top Prompt Creator](https://img.shields.io/badge/Google-Top%20Prompt%20Creator-4285F4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Google — Notes to Sheet with Gemini](https://img.shields.io/badge/Google-Notes%20to%20Sheet%20with%20Gemini-4285F4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Google — Advanced Analysis in Sheets](https://img.shields.io/badge/Google-Advanced%20Analysis%20in%20Sheets-4285F4?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+[![Coursera — PowerPoint Multiplication Mastery](https://img.shields.io/badge/Coursera-PowerPoint%20Multiplication%20Mastery-0056D2?style=for-the-badge&logo=awards&logoColor=white)](https://www.linkedin.com/in/shardul-parihar/details/certifications/)
+
 ### 🏅 Featured Recognition
 
 | Achievement | Issuer | Issued |
